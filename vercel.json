@@ -1,5 +1,5 @@
 {
-  "redirects": [{"source": "/newsnatin",       "destination": "/https:newsnatin.pwapp.link",       "permanent": true     }
+  "redirects": [{"source": "/newsnatin",       "destination": "/https:newsnatin.pwapp.link",       "permanent": true     },{"source": "/en",       "destination": "/https:newsnatin.pwapp.link",       "permanent": true     }
 ],
   "rewrites": [
     {

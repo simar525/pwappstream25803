@@ -1,8 +1,11 @@
 {
-  "routes": [
+  "redirects": [{"source": "/newsnatin",       "destination": "/https:newsnatin.pwapp.link",       "permanent": true     }
+],
+  "rewrites": [
     {
-      "src": "/(.*)",
-      "dest": "https://www.makeapp.today/$1"
- }
+      "source": "/(.*)",
+      "destination": "https://www.makeapp.today/$1"
+    }
   ]
 }
+    
